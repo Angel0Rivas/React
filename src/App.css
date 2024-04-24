@@ -1,0 +1,26 @@
+.navbar{
+    background-color:#31363F !important;
+    
+}
+.nav-link{
+    color: aliceblue;
+    padding: 2%;
+}
+.nav-link:hover{
+    color: rgb(62, 228, 62);
+    background-color: #5c5757;
+    border-radius: 5px;
+}
+.navbar-brand{
+    color: aliceblue;
+}
+.cart-widget{
+    font-size: 18px;
+    color: aliceblue;
+}
+.cart-widget:hover{
+    font-size: 21px;
+    color:rgb(62, 228, 62);
+    background-color: #5c5757;
+    border-radius: 5px;
+}
